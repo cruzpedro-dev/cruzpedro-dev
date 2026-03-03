@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou o Pedro Nunes! 
 
-<!--
-**cruzpedro-dev/cruzpedro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação na PUC Minas (3º Período). Atualmente estou focando meus estudos no desenvolvimento Back-end e na área de Análise de Dados, buscando criar soluções eficientes e baseadas em evidências.
 
-Here are some ideas to get you started:
+### Tecnologias e Ferramentas:
+- **Linguagens:** C#, SQL, JavaScript
+- **Frameworks/Libraries:** .NET, React, Node.js
+- **Ferramentas:** Git, GitHub, VS Code, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Objetivos:
+- Construir APIs robustas com .NET.
+- Aprofundar em manipulação e análise de dados.
+- Desenvolver projetos práticos para resolver problemas reais.
+
+---
+** Como me encontrar:** [LinkedIn](www.linkedin.com/in/pedro-nunes-cruz-48832630a) | [E-mail](pedronunesc09@gmail.com)
