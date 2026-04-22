@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro Nunes! 👋
 
-Estudante de Sistemas de Informação na PUC Minas (3º Período). Atualmente, divido minha atuação entre a **Infraestrutura de TI** corporativa e o desenvolvimento focado em **Análise de Dados**, buscando transformar informações em insights estratégicos e soluções eficientes.
+Estudante de Sistemas de Informação na PUC Minas (3º Período). Desenvolvimento focado em **Análise de Dados**, buscando transformar informações em insights estratégicos e soluções eficientes.
 
 ### 🛠️ Requisitos e Ferramentas:
 
