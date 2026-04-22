@@ -1,8 +1,8 @@
-# Olá, eu sou o Pedro Nunes! 👋
+# Olá, eu sou o Pedro Nunes! 
 
 Estudante de Sistemas de Informação na PUC Minas (3º Período). Desenvolvimento focado em **Análise de Dados**, buscando transformar informações em insights estratégicos e soluções eficientes.
 
-### 🛠️ Requisitos e Ferramentas:
+### Requisitos e Ferramentas:
 
 * **Dados & BI:** SQL, SQLite, Microsoft Excel, Power BI.
 * **Linguagens:** Python, C#, JavaScript.
@@ -10,7 +10,7 @@ Estudante de Sistemas de Informação na PUC Minas (3º Período). Desenvolvimen
 * **Infraestrutura & Monitoramento:** Windows Server, Linux (Ubuntu), Active Directory, Zabbix.
 * **Ferramentas:** Git, GitHub, VS Code, Visual Studio.
 
-### 🎯 Objetivos:
+### Objetivos:
 
 * Transformar dados brutos em insights de valor para o negócio.
 * Desenvolver projetos práticos que unam automação (Python) e banco de dados.
